@@ -244,7 +244,7 @@ function App() {
               className="inline-flex h-10 items-center gap-2 rounded-md bg-[var(--accent)] px-3 font-semibold text-slate-950 shadow-[0_0_30px_rgba(45,212,191,0.35)] transition hover:-translate-y-0.5 hover:bg-[var(--accent-soft)] sm:px-4"
             >
               <Download className="h-4 w-4" />
-              <span className="hidden sm:inline">CV</span>
+              <span className="hidden sm:inline">Resume</span>
             </a>
             <button
               type="button"
